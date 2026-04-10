@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="jp.keijiro.klak.timeline.particlesystemcontrol.Editor.csproj" />
+  <Project Path="jp.keijiro.klak.timeline.particlesystemcontrol.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
